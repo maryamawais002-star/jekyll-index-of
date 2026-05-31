@@ -1,1 +1,16 @@
-{"ping": "Pong"}
+[
+  {
+    "name": "Zainab's Home Kitchen",
+    "category": "Catering & Homemade Food",
+    "location": "Sector F-11, Islamabad",
+    "contact": "WhatsApp: +92 300 1234567",
+    "bio": "Authentic, home-cooked organic meals delivered daily."
+  },
+  {
+    "name": "Fatima's Custom Stitching",
+    "category": "Apparel & Design",
+    "location": "DHA Phase 5, Lahore",
+    "contact": "Instagram: @FatimaStitches",
+    "bio": "Bespoke traditional formal wear and alterations."
+  }
+]
