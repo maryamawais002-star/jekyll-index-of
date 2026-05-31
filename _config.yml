@@ -1,2 +1,3 @@
 title: jekyll-index-of
-content_root: public
+content_root: public 
+baseurl: "/jekyll-index-of"
